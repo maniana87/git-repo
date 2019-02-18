@@ -1,3 +1,0 @@
-print("Hello worid")
-print("Hello friends")
-print("Hello")
